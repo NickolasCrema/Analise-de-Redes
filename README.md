@@ -5,10 +5,13 @@ Tool de geoprocessamento que, a partir de uma entrada de uma camada de linhas, g
 ---
 
 Entrada:
+
 Camada de linhas que deseja-se gerar um grafo.
 
 ---
 
 Saída:
+
 Uma camada de pontos, representando os vértices, com uma referência as suas respectivas arestas.
+
 Uma camada de linhas, representando as arestas, com uma referência a seu respectivo par de vértices.
