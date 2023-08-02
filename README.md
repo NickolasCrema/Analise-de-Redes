@@ -1,7 +1,5 @@
 # Analise-de-Redes
 
----
-
 Tool de geoprocessamento que, a partir de uma entrada de uma camada de linhas, gera uma estrutura de grafo referente a essa camada, sendo seus vértices as intersecções e fins de linhas e arestas seus caminhos entre os vértices.
 
 ---
