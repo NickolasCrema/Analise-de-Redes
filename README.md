@@ -1,5 +1,4 @@
-# Analise-de-Redes
-
+# analise-de-rede-de-linhas
 Tool de geoprocessamento que, a partir de uma entrada de uma camada de linhas, gera uma estrutura de grafo referente a essa camada, sendo seus vértices as intersecções e fins de linhas e arestas seus caminhos entre os vértices.
 
 ---
@@ -18,7 +17,7 @@ Uma camada de linhas, representando as arestas, com uma referência a seu respec
 
 ---
 
-# Network-Analysis
+# line-network-analysis
 
 A geoprocessing tool that, based on input from a line layer, generates a graph structure for that layer, with vertices representing intersections and ends of lines, and edges representing paths between vertices.
 
